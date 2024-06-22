@@ -49,7 +49,7 @@ I'm a Web Developer and UI/UX designer with a passion for creating elegant, func
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hindol19&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hindol19&theme=prussian"/>
   </a>
 </p>
 
