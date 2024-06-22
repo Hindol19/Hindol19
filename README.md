@@ -6,8 +6,6 @@
 
 I'm a Web Developer and UI/UX designer with a passion for creating elegant, functional, and user-centered digital experiences. With more than 3 years of experience in the field, I am always looking for new and innovative ways to bring my ideas to life.
 
-Skills: NEXTJS / MERN STACK / JS / HTML / CSS / TAILWIND
-
 - 🔭 I’m currently working on A business website called Pocket Orchestra.
 - 📫 How to reach me: Check out my socials :)
 
