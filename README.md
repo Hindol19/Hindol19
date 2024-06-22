@@ -13,9 +13,9 @@ Skills: NEXTJS / MERN STACK / JS / HTML / CSS / TAILWIND
 
 <p align="center">
 <a href="https://instagram.com/web_wizardry1259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_wizardry1259" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpan-de-001ab31b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/Hindol19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="git" height="30" width="40" /></a>
-<a href="https://hindol-banerjee-official.vercel.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hindol-banerjee-93701124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/Hindol19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="git" height="30" width="40" /></a>
+<a href="https://hindol-banerjee-official.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/258023/earth-grid-earth-globe.svg" alt="website" height="30" width="40" /></a>
 
 </p>
 
@@ -51,7 +51,7 @@ Skills: NEXTJS / MERN STACK / JS / HTML / CSS / TAILWIND
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neo-deus&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hindol19&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
 
