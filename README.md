@@ -25,7 +25,7 @@ I'm a Web Developer and UI/UX designer with a passion for creating elegant, func
 
 <p align=center> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=Hindol19&column=8&no-frame=true"/>
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=Hindol19&column=8&no-frame=true&theme=nord"/>
   </a>
 </p>
 
@@ -36,10 +36,10 @@ I'm a Web Developer and UI/UX designer with a passion for creating elegant, func
 <table>
     <tr>
         <td rowspan=2>
-            <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hindol19&theme=dark" align="center"/></td>
+            <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hindol19&theme=prussian" align="center"/></td>
     </tr>
     <tr>
-        <td><img width=500 src="https://github-readme-stats.vercel.app/api?username=Hindol19&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+        <td><img width=500 src="https://github-readme-stats.vercel.app/api?username=Hindol19&count_private=true&theme=prussian&show_icons=true" align="center"/></td>
     </tr>
 </table>
 
