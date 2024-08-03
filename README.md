@@ -9,6 +9,7 @@ I'm a Web Developer and UI/UX designer with a passion for creating elegant, func
 - 🔭 I’m currently working on A business website called Pocket Orchestra.
 - 📫 How to reach me: Check out my socials :)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hindol19&label=Profile%20views&color=0e75b6&style=flat" alt="Hindol19" /> </p>
 <p align="center">
 <a href="https://instagram.com/web_wizardry1259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web_wizardry1259" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hindol-banerjee-93701124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
