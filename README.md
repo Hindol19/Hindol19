@@ -2,7 +2,7 @@
 
 #### Full-Stack Web Developer
 
-![Full-Stack Web Developer](https://media.licdn.com/dms/image/D4D16AQGYIGgBQcMmrw/profile-displaybackgroundimage-shrink_350_1400/0/1688367266712?e=1724284800&v=beta&t=j-lkDSbPgvr3Sw2aYdUshBAksHrkZOaputbiK9elsWQ)
+![Full-Stack Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQGYIGgBQcMmrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688367266712?e=1731542400&v=beta&t=ZysHrjVu8ffwC2tNb1wQ_RHzpVGUzDyQ2oz6LGYDbPM)
 
 I'm a Web Developer and UI/UX designer with a passion for creating elegant, functional, and user-centered digital experiences. With more than 3 years of experience in the field, I am always looking for new and innovative ways to bring my ideas to life.
 
